@@ -2,6 +2,7 @@ This is a file/directory tree implementation that my partner (Jack) and
 I wrote last semester for a COS217 assignment.
 
 Here are the descriptions of the files included in the sample:
+
     NodeD.c: An implementation of the directory node data type used in FT
     NodeD.h: The interface file for the NodeD data type
 
