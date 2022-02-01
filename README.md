@@ -16,4 +16,4 @@ Here are the descriptions of the files included in the sample:
 
 In the assignment, we were given various header files and other modules
 that we used in the final executable, but I'm pretty sure I'm not
-allowed to share those, so I just included the code that I wrote.
+allowed to share those, so I just included the code that my partner and I wrote.
